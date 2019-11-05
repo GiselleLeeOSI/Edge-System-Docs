@@ -1,4 +1,6 @@
 - name: Home
-  href: Beta2/index.md
-  homepage: Beta2/index.md
--
+  href: index.md
+  homepage: index.md
+- name: Docs
+  href: V1/Overview/
+  topicHref: V1/Overview/EdgeSystemOverview.md
