@@ -46,7 +46,7 @@ Select the Modbus TCP data you want to store in Edge Data Store by configuring M
         "RegisterType": 3,
         "RegisterOffset": 1,
         "DataTypeCode": 20,
-        "BitMap": "16151413",
+        "BitMap": "",
         "ConversionFactor": 2,
         "ConversionOffset": 3.4,
         "ScanRate": 500
@@ -57,7 +57,7 @@ Select the Modbus TCP data you want to store in Edge Data Store by configuring M
         "RegisterType": 3,
         "RegisterOffset": 2,
         "DataTypeCode": 20,
-        "BitMap": "16151413",
+        "BitMap": "",
         "ConversionFactor": 2,
         "ConversionOffset": 3.4,
         "ScanRate": 500
@@ -68,7 +68,7 @@ Select the Modbus TCP data you want to store in Edge Data Store by configuring M
         "RegisterType": 3,
         "RegisterOffset": 3,
         "DataTypeCode": 20,
-        "BitMap": "16151413",
+        "BitMap": "",
         "ConversionFactor": 2,
         "ConversionOffset": 3.4,
         "ScanRate": 500
@@ -79,7 +79,7 @@ Select the Modbus TCP data you want to store in Edge Data Store by configuring M
         "RegisterType": 3,
         "RegisterOffset": 4,
         "DataTypeCode": 20,
-        "BitMap": "16151413",
+        "BitMap": "",
         "ConversionFactor": 2,
         "ConversionOffset": 3.4,
         "ScanRate": 500
@@ -90,7 +90,7 @@ Select the Modbus TCP data you want to store in Edge Data Store by configuring M
         "RegisterType": 3,
         "RegisterOffset": 5,
         "DataTypeCode": 20,
-        "BitMap": "16151413",
+        "BitMap": "",
         "ConversionFactor": 2,
         "ConversionOffset": 3.4,
         "ScanRate": 500
